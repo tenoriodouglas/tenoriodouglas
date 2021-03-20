@@ -1,0 +1,3 @@
+- 👋 Hi, my name is Douglas
+- 👀 I’m interested in Data Science and Java
+- 🌱 I’m currently learning how to make bots and develop java applications
