@@ -1,5 +1,5 @@
-pip install telepot
-pip install pandas
-pip install seaborn
-pip install matplotlib
-pip install json
+pipenv install telepot
+pipenv install pandas
+pipenv install seaborn
+pipenv install matplotlib
+pipenv install json
