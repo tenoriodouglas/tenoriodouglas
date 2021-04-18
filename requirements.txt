@@ -2,4 +2,3 @@ telepot
 pandas
 seaborn
 matplotlib
-json
