@@ -1,0 +1,5 @@
+pip install telepot
+pip install pandas
+pip install seaborn
+pip install matplotlib
+pip install json
