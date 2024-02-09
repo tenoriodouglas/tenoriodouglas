@@ -1,5 +1,5 @@
--👋 Hi, I'm Douglas.
+-Hi!
 
--👀 I'm interested in Data Engineering.
+-I am Douglas.
 
--🌱 Currently, I'm working towards creating a more sustainable world.
+-I work as a Data Engineer and Python Backend Developer.
